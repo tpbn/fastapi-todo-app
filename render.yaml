@@ -15,3 +15,4 @@ databases:
   - name: todo-db
     databaseName: todo_db
     user: postgres
+    password: supermanBatmanWolverine
