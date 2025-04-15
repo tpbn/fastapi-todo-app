@@ -46,7 +46,7 @@
 - **Set your backend API URL**  
   Open your component (e.g., `todoList.js`) and update:
   ```js
-  const API_URL = "https://your-backend.onrender.com/todos/";
+  const API_URL = " https://fastapi-backend-khqb.onrender.com/todos/";
   ```
 
 - **Run the frontend app**  
