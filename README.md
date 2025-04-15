@@ -7,6 +7,8 @@
    git clone https://github.com/tpbn/fastapi-todo-app.git
    cd fastapi-todo-app/backend
 
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
 
 ##  Live Deployed Links
 
