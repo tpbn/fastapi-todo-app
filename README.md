@@ -35,3 +35,20 @@ RESTful API endpoints for managing the to-do list backend:
     "title": "Task Name",
     "completed": false
   }
+
+  - **Response Format:**
+   ```json
+  [
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Study FastAPI",
+    "completed": true
+  }
+]
+
+  
