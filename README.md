@@ -1,16 +1,3 @@
-##  Setup Instructions
-
-###  Backend (FastAPI)
-
-- **Clone the repository:**
-   ```bash
-   git clone https://github.com/tpbn/fastapi-todo-app.git
-   cd fastapi-todo-app/backend
-
-Great catch! You're right — GitHub renders Markdown with a clean, stylized layout like that when formatted properly. Here's your **Setup Instructions** in **GitHub-flavored Markdown** so it looks exactly like your screenshot:
-
----
-
 ###  Setup Instructions
 
 ###  Backend (FastAPI)
