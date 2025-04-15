@@ -8,7 +8,7 @@
    cd fastapi-todo-app/backend
 
 
-## 🔗 Live Deployed Links
+##  Live Deployed Links
 
 - **Frontend:** https://fastapi-frontend-ffks.onrender.com/  
 - **Backend:** https://fastapi-backend-khqb.onrender.com/docs
