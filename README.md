@@ -35,7 +35,3 @@ RESTful API endpoints for managing the to-do list backend:
     "title": "Task Name",
     "completed": false
   }
-
-
-
-  
