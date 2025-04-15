@@ -21,7 +21,7 @@
 
 - **Create a `.env` file with your Neon DB URL**  
   ```
-  DATABASE_URL=your_neon_connection_string_here
+  DATABASE_URL=postgresql://neondb_owner:npg_Nzv1tq4ImeRU@ep-young-sun-a424wwqi-pooler.us-east-1.aws.neon.tech/neondb?sslmode=require
   ```
 
 - **Run the backend server**  
