@@ -1,3 +1,13 @@
+##  Setup Instructions
+
+###  Backend (FastAPI)
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tpbn/fastapi-todo-app.git
+   cd fastapi-todo-app/backend
+
+
 ## 🔗 Live Deployed Links
 
 - **Frontend:** https://fastapi-frontend-ffks.onrender.com/  
