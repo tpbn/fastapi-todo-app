@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 
-const API_URL = "http://127.0.0.1:8000/todos/";
+const API_URL = "https://fastapi-backend-khqb.onrender.com/todos/";
 
 export default function TodoList() {
   const [tasks, setTasks] = useState([]);
