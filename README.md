@@ -44,7 +44,7 @@
   ```
 
 - **Set your backend API URL**  
-  Open your component (e.g., `TodoList.js`) and update:
+  Open your component (e.g., `todoList.js`) and update:
   ```js
   const API_URL = "https://your-backend.onrender.com/todos/";
   ```
