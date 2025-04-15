@@ -72,12 +72,16 @@
 
 RESTful API endpoints for managing the to-do list backend:
 
-| Method  | Endpoint                  | Description             |
-|---------|---------------------------|-------------------------|
-| GET     | `/todos/`                 | Fetch all tasks         |
-| POST    | `/todos/`                 | Create a new task       |
-| PUT     | `/todos/{id}`            | Update a task by ID     |
-| DELETE  | `/todos/{id}`            | Delete a task by ID     |
+| Method  | Endpoint              | Description                   |
+|---------|------------------------|-------------------------------|
+| GET     | `/`                   | Root endpoint (welcome or base test) |
+| GET     | `/todos/`             | Fetch all tasks               |
+| GET     | `/todos/{id}`         | Fetch a task by ID            |
+| GET     | `/todos/filter/`      | Filter todos by status        |
+| POST    | `/todos/`             | Create a new task             |
+| PUT     | `/todos/{id}`         | Update a task by ID           |
+| DELETE  | `/todos/{id}`         | Delete a task by ID           |
+
 
 ---
 
